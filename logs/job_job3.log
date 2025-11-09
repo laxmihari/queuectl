@@ -1,0 +1,18 @@
+--- START LOG ENTRY: 2025-11-09T09:04:50.809508+00:00 ---
+--- STDERR ---
+ls: cannot access '/no/such/path': No such file or directory
+
+--- END LOG ENTRY ---
+
+--- START LOG ENTRY: 2025-11-09T09:04:50.827688+00:00 ---
+--- STDERR ---
+ls: cannot access '/no/such/path': No such file or directory
+
+--- END LOG ENTRY ---
+
+--- START LOG ENTRY: 2025-11-09T09:04:52.832492+00:00 ---
+--- STDERR ---
+ls: cannot access '/no/such/path': No such file or directory
+
+--- END LOG ENTRY ---
+
